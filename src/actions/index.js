@@ -2,7 +2,7 @@ import axios from 'axios';
 
 //need PROMISE to USE
 const API_KEY = '47bb5070724c623796cc10560ceb9324';
-const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
+const ROOT_URL = `https://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
 
 //assign string to variable.  typos in variable throw errors that you can find in the console.  strings do not
 
